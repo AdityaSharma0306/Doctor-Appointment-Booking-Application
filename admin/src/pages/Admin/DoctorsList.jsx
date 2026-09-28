@@ -1,6 +1,6 @@
 import React, { useContext, useEffect } from 'react'
 import { AdminContext } from '../../context/AdminContext'
-import { changeAvailability } from '../../../../backend/controllers/doctorController'
+// import { changeAvailability } from '../../../../backend/controllers/doctorController'
 // import { allDoctors } from '../../../../backend/controllers/adminController'
 // import doctorModel from '../../../../backend/models/doctorModel'
 
